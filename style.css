@@ -1,8 +1,10 @@
 * { box-sizing: border-box; }
 
+html, body { height: 100%; }
+
 body { margin: 0; padding: 0; font-family: sans-serif; background-color: #F6F8FC; }
 
-.common-ailments { height: 448px; background-color: #F6F8FC; overflow: hidden; }
+.common-ailments { height: 100%; background-color: #F6F8FC; overflow: hidden; }
 
 .container { display: flex; height: 100%; }
 
